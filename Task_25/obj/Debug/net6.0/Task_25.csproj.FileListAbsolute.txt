@@ -13,3 +13,18 @@ C:\Users\TRON\Desktop\CS_seminar_4\Task_25\obj\Debug\net6.0\refint\Task_25.dll
 C:\Users\TRON\Desktop\CS_seminar_4\Task_25\obj\Debug\net6.0\Task_25.pdb
 C:\Users\TRON\Desktop\CS_seminar_4\Task_25\obj\Debug\net6.0\Task_25.genruntimeconfig.cache
 C:\Users\TRON\Desktop\CS_seminar_4\Task_25\obj\Debug\net6.0\ref\Task_25.dll
+G:\1_GEEKBRAINS\1 четверть\Тема 4_Знакомство с языками программирования\Урок 4. Функции продолжение\ДЗ сдано\CS_seminar_4\Task_25\bin\Debug\net6.0\Task_25.exe
+G:\1_GEEKBRAINS\1 четверть\Тема 4_Знакомство с языками программирования\Урок 4. Функции продолжение\ДЗ сдано\CS_seminar_4\Task_25\bin\Debug\net6.0\Task_25.deps.json
+G:\1_GEEKBRAINS\1 четверть\Тема 4_Знакомство с языками программирования\Урок 4. Функции продолжение\ДЗ сдано\CS_seminar_4\Task_25\bin\Debug\net6.0\Task_25.runtimeconfig.json
+G:\1_GEEKBRAINS\1 четверть\Тема 4_Знакомство с языками программирования\Урок 4. Функции продолжение\ДЗ сдано\CS_seminar_4\Task_25\bin\Debug\net6.0\Task_25.dll
+G:\1_GEEKBRAINS\1 четверть\Тема 4_Знакомство с языками программирования\Урок 4. Функции продолжение\ДЗ сдано\CS_seminar_4\Task_25\bin\Debug\net6.0\Task_25.pdb
+G:\1_GEEKBRAINS\1 четверть\Тема 4_Знакомство с языками программирования\Урок 4. Функции продолжение\ДЗ сдано\CS_seminar_4\Task_25\obj\Debug\net6.0\Task_25.csproj.AssemblyReference.cache
+G:\1_GEEKBRAINS\1 четверть\Тема 4_Знакомство с языками программирования\Урок 4. Функции продолжение\ДЗ сдано\CS_seminar_4\Task_25\obj\Debug\net6.0\Task_25.GeneratedMSBuildEditorConfig.editorconfig
+G:\1_GEEKBRAINS\1 четверть\Тема 4_Знакомство с языками программирования\Урок 4. Функции продолжение\ДЗ сдано\CS_seminar_4\Task_25\obj\Debug\net6.0\Task_25.AssemblyInfoInputs.cache
+G:\1_GEEKBRAINS\1 четверть\Тема 4_Знакомство с языками программирования\Урок 4. Функции продолжение\ДЗ сдано\CS_seminar_4\Task_25\obj\Debug\net6.0\Task_25.AssemblyInfo.cs
+G:\1_GEEKBRAINS\1 четверть\Тема 4_Знакомство с языками программирования\Урок 4. Функции продолжение\ДЗ сдано\CS_seminar_4\Task_25\obj\Debug\net6.0\Task_25.csproj.CoreCompileInputs.cache
+G:\1_GEEKBRAINS\1 четверть\Тема 4_Знакомство с языками программирования\Урок 4. Функции продолжение\ДЗ сдано\CS_seminar_4\Task_25\obj\Debug\net6.0\Task_25.dll
+G:\1_GEEKBRAINS\1 четверть\Тема 4_Знакомство с языками программирования\Урок 4. Функции продолжение\ДЗ сдано\CS_seminar_4\Task_25\obj\Debug\net6.0\refint\Task_25.dll
+G:\1_GEEKBRAINS\1 четверть\Тема 4_Знакомство с языками программирования\Урок 4. Функции продолжение\ДЗ сдано\CS_seminar_4\Task_25\obj\Debug\net6.0\Task_25.pdb
+G:\1_GEEKBRAINS\1 четверть\Тема 4_Знакомство с языками программирования\Урок 4. Функции продолжение\ДЗ сдано\CS_seminar_4\Task_25\obj\Debug\net6.0\Task_25.genruntimeconfig.cache
+G:\1_GEEKBRAINS\1 четверть\Тема 4_Знакомство с языками программирования\Урок 4. Функции продолжение\ДЗ сдано\CS_seminar_4\Task_25\obj\Debug\net6.0\ref\Task_25.dll

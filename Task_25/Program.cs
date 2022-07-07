@@ -11,7 +11,10 @@ int b = Convert.ToInt32(Console.ReadLine());
 
 double Step(int a1, int b1)
 {
-    double res = Math.Pow(a1, b1);
+    //double res = Math.Pow(a1, b1);
+    int res = 1;
+    for (int i = 1; i <= b; i++)
+        res = res * a;
     return res;
 }
 double result = Step(a, b);
